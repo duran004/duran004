@@ -14,5 +14,5 @@ Hello! My name is Duran Can YILMAZ I am a full stack senior developer.<br>My mai
 
 ---
 [![](https://visitcount.itsvg.in/api?id=duran004&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=duran004&color=dc143c)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
